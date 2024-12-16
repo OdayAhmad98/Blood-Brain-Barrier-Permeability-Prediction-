@@ -3,8 +3,8 @@ The aim of this study is to develop a machine learning model for the classificat
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 # Usage Notes 
-1- Import the BBB_Test Notebook 
-2- Run until the line when importing the .pth model 
-3- Replace the path from google colab to the cnn_bbb_entire_model.pth that is present in the repo 
-4- Choose the SMILE you want and input the string into the cell 
-5- Run the notebook till the end and check the result 
+1- Import the BBB_Test Notebook <br> 
+2- Run until the line when importing the .pth model <br> 
+3- Replace the path from google colab to the cnn_bbb_entire_model.pth that is present in the repo <br> 
+4- Choose the SMILE you want and input the string into the cell <br> 
+5- Run the notebook till the end and check the result <br> 
